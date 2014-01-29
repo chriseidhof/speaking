@@ -1,8 +1,4 @@
-speaking
-========
-
-Speaking gigs
-
+# Public Speaking
 
 ## 2014
 
