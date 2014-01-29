@@ -9,8 +9,8 @@ Here's an incomplete list of my public speaking, mainly for my own reference.
 
 ## 2014
 
-* Jan 11 - [Mobile Central Europe](http://mobilecentraleurope.com), Warsaw ([slides](https://speakerdeck.com/chriseidhof/the-evolution-of-a-cocoa-programmer))
 * Jan 22 - [CocoaKucha Berlin](http://cocoaheads-berlin.github.io), Berlin ([video](http://vimeo.com/85028110))
+* Jan 11 - [Mobile Central Europe](http://mobilecentraleurope.com), Warsaw ([slides](https://speakerdeck.com/chriseidhof/the-evolution-of-a-cocoa-programmer))
 
 ## 2013
 
