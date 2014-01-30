@@ -5,6 +5,7 @@ Here's an incomplete list of my public speaking, mainly for my own reference.
 ## Upcoming
 
 * Feb 18 - [CocoaHeads NL](http://cocoaheads.nl/upcoming), Utrecht
+* Mar 18 - [Mobile Warsaw](http://www.meetup.com/Mobile-Warsaw/), Warsaw
 * Apr 28 - Istanbul Tech Talks, Istanbul
 
 ## 2014
