@@ -13,3 +13,4 @@
 * Core Data Made Easy
 * View Controller Transitions
 * Working with clang
+* What I learned from Haskell
