@@ -4,12 +4,12 @@ Here's an incomplete list of my public speaking from 2013 onwards, mainly for my
 
 ## Upcoming
 
-* Feb 18 - [CocoaHeads NL](http://cocoaheads.nl/upcoming), Utrecht
 * Mar 18 - [Mobile Warsaw](http://www.meetup.com/Mobile-Warsaw/), Warsaw
 * Apr 28 - [Istanbul Tech Talks](http://www.istanbultechtalks.com), Istanbul
 
 ## 2014
 
+* Feb 18 - [CocoaHeads NL](http://cocoaheads.nl/upcoming), Utrecht ([slides](https://speakerdeck.com/chriseidhof/lighter-view-controllers-1))
 * Jan 22 - [CocoaKucha Berlin](http://cocoaheads-berlin.github.io), Berlin ([video](http://vimeo.com/85028110))
 * Jan 11 - [Mobile Central Europe](http://mobilecentraleurope.com), Warsaw ([slides](https://speakerdeck.com/chriseidhof/the-evolution-of-a-cocoa-programmer))
 
