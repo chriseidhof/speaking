@@ -17,7 +17,7 @@ Here's an incomplete list of my public speaking from 2013 onwards, mainly for my
 ## 2013
 
 * Dec 16 - [Alt Tech Talks](http://london.alttechtalks.com), London ([slides](https://speakerdeck.com/chriseidhof/cocoa-touch-the-good-the-bad-and-the-ugly), [video](http://vimeo.com/85367013))
-* Oct 26 - [Pragma Mark](http://pragmamark.org), Milan ([slides](https://speakerdeck.com/chriseidhof/pragma-mark-simple-concurrent-programming))
+* Oct 26 - [Pragma Mark](http://pragmamark.org), Milan ([slides](https://speakerdeck.com/chriseidhof/pragma-mark-simple-concurrent-programming), [video](http://www.youtube.com/watch?v=maxcJkQZWRs))
 * Oct 7 - [Compiler Meetup](http://berlin.compilermeet.org), Berlin 
 * Oct 5 - [Macoun (de)](http://www.macoun.de), Frankfurt ([video](http://macoun.de/video2013kssa3.php), [slides](https://speakerdeck.com/chriseidhof/schlanke-view-controller))
 * Oct 1 - [Ignite](http://igniteberlin.com), Berlin 
