@@ -14,4 +14,4 @@
 * Core Data Made Easy
 * View Controller Transitions
 * Working with clang
-* What I learned from Haskell
+* What the Objective-C world can learn from Haskell
