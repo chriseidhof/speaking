@@ -4,9 +4,9 @@ Here's an incomplete list of my public speaking from 2013 onwards, mainly for my
 
 ## Upcoming
 
-* Mar 18 - [Mobile Warsaw](http://www.meetup.com/Mobile-Warsaw/), Warsaw
-* Mar 21 - [CocoaHeads Ukraine](https://www.facebook.com/CocoaHeadsUkraine), Kyiv
-* Apr 28 - [Istanbul Tech Talks](http://www.istanbultechtalks.com), Istanbul
+* Mar 18 - [Mobile Warsaw](http://www.meetup.com/Mobile-Warsaw/), Warsaw 
+* Mar 21 - [CocoaHeads Ukraine](https://www.facebook.com/CocoaHeadsUkraine), Kyiv - Practical Concurrent Programming
+* Apr 28 - [Istanbul Tech Talks](http://www.istanbultechtalks.com), Istanbul - Practical Concurrent Programming
 
 ## 2014
 
