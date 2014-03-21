@@ -4,11 +4,12 @@ Here's an incomplete list of my public speaking from 2013 onwards, mainly for my
 
 ## Upcoming
 
-* Mar 21 - [CocoaHeads Ukraine](https://www.facebook.com/CocoaHeadsUkraine), Kyiv - Practical Concurrent Programming
 * Apr 28 - [Istanbul Tech Talks](http://www.istanbultechtalks.com), Istanbul - Practical Concurrent Programming
+* May 29 - ?
 
 ## 2014
 
+* Mar 21 - [CocoaHeads Ukraine](https://www.facebook.com/CocoaHeadsUkraine), Kyiv - Practical Concurrent Programming ([slides](https://speakerdeck.com/chriseidhof/practical-asynchronous-programming-kiev))
 * Mar 18 - [Mobile Warsaw](http://www.meetup.com/Mobile-Warsaw/), Warsaw ([slides](https://speakerdeck.com/chriseidhof/lighter-view-controllers-2))
 * Feb 18 - [CocoaHeads NL](http://cocoaheads.nl/upcoming), Utrecht ([slides](https://speakerdeck.com/chriseidhof/lighter-view-controllers-1))
 * Jan 22 - [CocoaKucha Berlin](http://cocoaheads-berlin.github.io), Berlin ([video](http://vimeo.com/85028110))
