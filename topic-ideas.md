@@ -7,6 +7,7 @@
 
 ## Idea phase
 
+* Mutability
 * How to write your own parser combinator library
 * Working with strings
 * What we can learn from smalltalk
