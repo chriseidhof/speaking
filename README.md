@@ -5,8 +5,9 @@ Here's an incomplete list of my public speaking from 2013 onwards, mainly for my
 ## Upcoming
 
 * Apr 28 - [Istanbul Tech Talks](http://www.istanbultechtalks.com), Istanbul - Practical Concurrent Programming
-* May 8 - CocoaHeads, Hamburg
-* May 19 - TBA
+* May 8 - CocoaHeads, Hamburg - Parser combinators
+* May 14-17, UIKonf, Berlin - (Host)
+* May 19 - Stockholm - TBA
 * May 29 - TBA
 
 ## 2014
