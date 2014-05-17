@@ -4,14 +4,13 @@ Here's an incomplete list of my public speaking from 2013 onwards, mainly for my
 
 ## Upcoming
 
-* Apr 28 - [Istanbul Tech Talks](http://www.istanbultechtalks.com), Istanbul - Practical Concurrent Programming
-* May 8 - CocoaHeads, Hamburg - Parser combinators
-* May 14-17, UIKonf, Berlin - (Host)
-* May 19 - Stockholm - TBA
-* May 29 - TBA
+* May 19 - CocoaHeads Stockholm - Lighter View Controllers
 
 ## 2014
 
+* May 14-17, UIKonf, Berlin - (Host)
+* May 8 - CocoaHeads, Hamburg - Parser combinators ([slides](https://speakerdeck.com/chriseidhof/parsing-with-blocks))
+* Apr 28 - [Istanbul Tech Talks](http://www.istanbultechtalks.com), Istanbul - Practical Concurrent Programming ([slides](https://speakerdeck.com/chriseidhof/practical-concurrent-programming))
 * Mar 21 - [CocoaHeads Ukraine](https://www.facebook.com/CocoaHeadsUkraine), Kyiv - Practical Concurrent Programming ([slides](https://speakerdeck.com/chriseidhof/practical-asynchronous-programming-kiev))
 * Mar 18 - [Mobile Warsaw](http://www.meetup.com/Mobile-Warsaw/), Warsaw ([slides](https://speakerdeck.com/chriseidhof/lighter-view-controllers-2))
 * Feb 18 - [CocoaHeads NL](http://cocoaheads.nl/upcoming), Utrecht ([slides](https://speakerdeck.com/chriseidhof/lighter-view-controllers-1))
