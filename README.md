@@ -1,6 +1,7 @@
 ## Upcoming
 
 * May 19 - CocoaHeads Stockholm - Lighter View Controllers
+* July 3 - Budapest
 
 ## 2014
 
