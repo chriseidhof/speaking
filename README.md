@@ -1,7 +1,3 @@
-# Public Speaking
-
-Here's an incomplete list of my public speaking from 2013 onwards, mainly for my own reference.
-
 ## Upcoming
 
 * May 19 - CocoaHeads Stockholm - Lighter View Controllers
