@@ -1,10 +1,13 @@
 ## Upcoming
 
-* May 19 - CocoaHeads Stockholm - Lighter View Controllers
-* July 3 - Budapest
+* June 28 - [Mobile Optimized](http://mo.dev.by/en), Minsk
+* July 3 - [Native Development Meetup](http://www.meetup.com/Native-Development-Meetup/), Budapest
+* October - [Pragma Mark](http://pragmamark.org), Milan
 
 ## 2014
 
+* May 21 - CocoaHeads Berlin - Lighter View Controllers
+* May 19 - CocoaHeads Stockholm - Lighter View Controllers
 * May 14-17, UIKonf, Berlin - (Host)
 * May 8 - CocoaHeads, Hamburg - Parser combinators ([slides](https://speakerdeck.com/chriseidhof/parsing-with-blocks))
 * Apr 28 - [Istanbul Tech Talks](http://www.istanbultechtalks.com), Istanbul - Practical Concurrent Programming ([slides](https://speakerdeck.com/chriseidhof/practical-concurrent-programming))
