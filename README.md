@@ -2,6 +2,7 @@
 
 * June 28 - [Mobile Optimized](http://mo.dev.by/en), Minsk
 * July 3 - [Native Development Meetup](http://www.meetup.com/Native-Development-Meetup/), Budapest
+* Augst - [360|iDev](http://www.360idev.com), Denver, CO
 * October - [Pragma Mark](http://pragmamark.org), Milan
 
 ## 2014
