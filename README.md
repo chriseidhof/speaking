@@ -1,12 +1,13 @@
 ## Upcoming
 
-* June 28 - [Mobile Optimized](http://mo.dev.by/en), Minsk
 * July 3 - [Native Development Meetup](http://www.meetup.com/Native-Development-Meetup/), Budapest
+* August 8 - [Łódź wiOSłuje](http://www.meetup.com/Lodz-w-iOS-luje/), Łódź
 * August - [360|iDev](http://www.360idev.com), Denver, CO
 * October - [Pragma Mark](http://pragmamark.org), Milan
 
 ## 2014
 
+* June 28 - [Mobile Optimized](http://mo.dev.by/en), Minsk ([slides](https://speakerdeck.com/chriseidhof/functional-programming-in-swift))
 * May 21 - CocoaHeads Berlin - Lighter View Controllers
 * May 19 - CocoaHeads Stockholm - Lighter View Controllers
 * May 14-17, UIKonf, Berlin - (Host)
