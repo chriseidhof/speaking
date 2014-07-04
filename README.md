@@ -1,7 +1,7 @@
 ## Upcoming
 
 * August 8 - [Łódź wiOSłuje](http://www.meetup.com/Lodz-w-iOS-luje/), Łódź
-* August - [360|iDev](http://www.360idev.com), Denver, CO
+* August 25 - [360|iDev](http://www.360idev.com), Denver, CO
 * October - [Pragma Mark](http://pragmamark.org), Milan
 
 ## 2014
