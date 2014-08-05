@@ -3,7 +3,7 @@
 * August 8 - [Łódź wiOSłuje](http://www.meetup.com/Lodz-w-iOS-luje/), Łódź
 * August 25 - [360|iDev](http://www.360idev.com), Denver, CO
 * September ? - ?, San Francisco, CA
-* September ? - ?, Brooklyn, NY
+* September [Brooklyn Swift Developers](http://www.meetup.com/Brooklyn-Swift-Developers/) - ?, Brooklyn, NY
 * September 25?, Kraków
 * October 4 - [Pragma Mark](http://pragmamark.org), Milan
 * October 22-24 - [⌘R Conf](http://cmdrconf.com), London
