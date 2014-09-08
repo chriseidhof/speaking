@@ -1,16 +1,16 @@
 ## Upcoming
 
-* August 8 - [Łódź wiOSłuje](http://www.meetup.com/Lodz-w-iOS-luje/), Łódź
-* August 25 - [360|iDev](http://www.360idev.com), Denver, CO
-* September ? - ?, San Francisco, CA
-* September [Brooklyn Swift Developers](http://www.meetup.com/Brooklyn-Swift-Developers/) - ?, Brooklyn, NY
-* September 25?, Kraków
 * October 4 - [Pragma Mark](http://pragmamark.org), Milan
 * October 22-24 - [⌘R Conf](http://cmdrconf.com), London
 * October 25 - [NSZürich](http://www.nszurich.com), Zürich
+* November 14-15 - [CocoaConf Boston](http://cocoaconf.com/boston-2014/), Boston, MA
 
 ## 2014
 
+* September 9 - [Brooklyn Swift Developers](http://www.meetup.com/Brooklyn-Swift-Developers/), Brooklyn, NY
+* September 2 - [Swift Language User Group](http://www.meetup.com/swift-language/), San Francisco, CA
+* August 25 - [360|iDev](http://www.360idev.com), Denver, CO
+* August 8 - [Łódź wiOSłuje](http://www.meetup.com/Lodz-w-iOS-luje/), Łódź
 * July 3 - [Native Development Meetup](http://www.meetup.com/Native-Development-Meetup/), Budapest
 * June 28 - [Mobile Optimized](http://mo.dev.by/en), Minsk ([slides](https://speakerdeck.com/chriseidhof/functional-programming-in-swift))
 * May 21 - CocoaHeads Berlin - Lighter View Controllers
