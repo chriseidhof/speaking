@@ -2,7 +2,6 @@
 
 * October 4 - [Pragma Mark](http://pragmamark.org), Milan
 * October 22-24 - [⌘R Conf](http://cmdrconf.com), London
-* October 25 - [NSZürich](http://www.nszurich.com), Zürich
 * November 14-15 - [CocoaConf Boston](http://cocoaconf.com/boston-2014/), Boston, MA
 * December ? - [Swift Language User Group](http://www.meetup.com/swift-language/), San Francisco, CA
 
