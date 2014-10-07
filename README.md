@@ -1,12 +1,13 @@
 ## Upcoming
 
-* October 4 - [Pragma Mark](http://pragmamark.org), Milan
 * October 22-24 - [⌘R Conf](http://cmdrconf.com), London
 * November 14-15 - [CocoaConf Boston](http://cocoaconf.com/boston-2014/), Boston, MA
 * December ? - [Swift Language User Group](http://www.meetup.com/swift-language/), San Francisco, CA
+* January 12 - CocoaHeads, Stockholm
 
 ## 2014
 
+* October 4 - [Pragma Mark](http://pragmamark.org), Milan
 * September 9 - [Brooklyn Swift Developers](http://www.meetup.com/Brooklyn-Swift-Developers/), Brooklyn, NY
 * September 2 - [Swift Language User Group](http://www.meetup.com/swift-language/), San Francisco, CA
 * August 25 - [360|iDev](http://www.360idev.com), Denver, CO
