@@ -1,9 +1,13 @@
 ## Upcoming
 
 * October 22-24 - [⌘R Conf](http://cmdrconf.com), London
+* October 27 - [swift.berlin](http://www.meetup.com/swift-berlin/), Berlin
+* October 30 - [CocoaHeads Copenhagen](http://www.meetup.com/CopenhagenCocoa/), Copenhagen
 * November 14-15 - [CocoaConf Boston](http://cocoaconf.com/boston-2014/), Boston, MA
-* December ? - [Swift Language User Group](http://www.meetup.com/swift-language/), San Francisco, CA
-* January 12 - CocoaHeads, Stockholm
+* December 9 - [Swift Meetup](http://www.meetup.com/swift-language/), San Francisco, CA
+* January 12 - [CocoaHeads Stockholm](http://www.meetup.com/CocoaHeads-Stockholm/), Stockholm
+* January ? - [BobKonf](http://bobkonf.de), Berlin
+* February 4-6 - [Mobile Central Europe](http://mceconf.com), Warsaw
 
 ## 2014
 
