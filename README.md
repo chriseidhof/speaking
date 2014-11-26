@@ -1,8 +1,6 @@
 ## Upcoming
 
-* October 27 - [swift.berlin](http://www.meetup.com/swift-berlin/), Berlin
-* October 30 - [CocoaHeads Copenhagen](http://www.meetup.com/CopenhagenCocoa/), Copenhagen
-* ~~November 14-15 - [CocoaConf Boston](http://cocoaconf.com/boston-2014/), Boston, MA~~
+* December 8 - [iOSoho](http://www.meetup.com/iOSoho/events/208761382/), New York, NY
 * December 9 - [Swift Meetup](http://www.meetup.com/swift-language/), San Francisco, CA
 * January 12 - [CocoaHeads Stockholm](http://www.meetup.com/CocoaHeads-Stockholm/), Stockholm
 * January 23-25 - [BobKonf](http://bobkonf.de), Berlin
@@ -10,6 +8,9 @@
 
 ## 2014
 
+* ~~November 14-15 - [CocoaConf Boston](http://cocoaconf.com/boston-2014/), Boston, MA~~
+* October 30 - [CocoaHeads Copenhagen](http://www.meetup.com/CopenhagenCocoa/), Copenhagen
+* October 27 - [swift.berlin](http://www.meetup.com/swift-berlin/), Berlin
 * October 22-24 - [⌘R Conf](http://cmdrconf.com), London
 * October 4 - [Pragma Mark](http://pragmamark.org), Milan
 * September 9 - [Brooklyn Swift Developers](http://www.meetup.com/Brooklyn-Swift-Developers/), Brooklyn, NY
