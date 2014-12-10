@@ -1,5 +1,6 @@
 ## Upcoming
 
+* January 9 - [NL-FP day 2015](http://wwwhome.cs.utwente.nl/~jankuper/fp-dag/)
 * January 12 - [CocoaHeads Stockholm](http://www.meetup.com/CocoaHeads-Stockholm/), Stockholm
 * January 23-25 - [BobKonf](http://bobkonf.de), Berlin
 * February 4-6 - [Mobile Central Europe](http://mceconf.com), Warsaw
