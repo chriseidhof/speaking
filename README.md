@@ -1,13 +1,13 @@
 ## Upcoming
 
-* December 8 - [iOSoho](http://www.meetup.com/iOSoho/events/208761382/), New York, NY
-* December 9 - [Swift Meetup](http://www.meetup.com/swift-language/), San Francisco, CA
 * January 12 - [CocoaHeads Stockholm](http://www.meetup.com/CocoaHeads-Stockholm/), Stockholm
 * January 23-25 - [BobKonf](http://bobkonf.de), Berlin
 * February 4-6 - [Mobile Central Europe](http://mceconf.com), Warsaw
 
 ## 2014
 
+* December 9 - [Swift Meetup](http://www.meetup.com/swift-language/), San Francisco, CA
+* December 8 - [iOSoho](http://www.meetup.com/iOSoho/events/208761382/), New York, NY
 * ~~November 14-15 - [CocoaConf Boston](http://cocoaconf.com/boston-2014/), Boston, MA~~
 * October 30 - [CocoaHeads Copenhagen](http://www.meetup.com/CopenhagenCocoa/), Copenhagen
 * October 27 - [swift.berlin](http://www.meetup.com/swift-berlin/), Berlin
