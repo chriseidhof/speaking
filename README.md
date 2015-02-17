@@ -1,11 +1,13 @@
 ## Upcoming
 
-* January 15 - [Strange Group](http://www.meetup.com/Strange-Group-Berlin/events/219492917/), Berlin
-* January 23-25 - [BobKonf](http://bobkonf.de), Berlin
-* February 4-6 - [Mobile Central Europe](http://mceconf.com), Warsaw
+* March 21-22 - [Swift Summit](https://www.swiftsummit.com)
+* May 17-20 - [UIKonf](http://www.uikonf.com)
 
 ## 2015
 
+* February 4-6 - [Mobile Central Europe](http://mceconf.com), Warsaw
+* January 23-25 - [BobKonf](http://bobkonf.de), Berlin
+* January 15 - [Strange Group](http://www.meetup.com/Strange-Group-Berlin/events/219492917/), Berlin
 * January 12 - [CocoaHeads Stockholm](http://www.meetup.com/CocoaHeads-Stockholm/), Stockholm
 * January 9 - [NL-FP day 2015](http://wwwhome.cs.utwente.nl/~jankuper/fp-dag/)
 
