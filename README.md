@@ -1,6 +1,7 @@
 ## Upcoming
 
 * March 21-22 - [Swift Summit](https://www.swiftsummit.com)
+* April 16 - Budapest
 * May 17-20 - [UIKonf](http://www.uikonf.com)
 
 ## 2015
