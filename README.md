@@ -1,11 +1,11 @@
 ## Upcoming
 
-* March 21-22 - [Swift Summit](https://www.swiftsummit.com)
-* April 16 - Budapest
+* April 16 - [Native Development Meetup](http://www.meetup.com/Native-Development-Meetup/), Budapest
 * May 17-20 - [UIKonf](http://www.uikonf.com)
 
 ## 2015
 
+* March 21-22 - [Swift Summit](https://www.swiftsummit.com)
 * February 4-6 - [Mobile Central Europe](http://mceconf.com), Warsaw
 * January 23-25 - [BobKonf](http://bobkonf.de), Berlin
 * January 15 - [Strange Group](http://www.meetup.com/Strange-Group-Berlin/events/219492917/), Berlin
