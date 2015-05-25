@@ -1,10 +1,15 @@
 ## Upcoming
 
-* April 16 - [Native Development Meetup](http://www.meetup.com/Native-Development-Meetup/), Budapest
-* May 17-20 - [UIKonf](http://www.uikonf.com)
+* June - [AltConf](http://www.altconf.com), San Francisco
+* August 27 - [CocoaHeads](http://cocoaheads.org/pl/Warsaw/index.html), Warsaw
+* August 28-29 - [CodePot](https://codepot.pl), Warsaw
+* October 10 - [Pragma Mark](http://pragmamark.org), Florence
+
 
 ## 2015
 
+* May 17-20 - [UIKonf](http://www.uikonf.com)
+* April 16 - [Native Development Meetup](http://www.meetup.com/Native-Development-Meetup/), Budapest
 * March 21-22 - [Swift Summit](https://www.swiftsummit.com), London
 * February 4-6 - [Mobile Central Europe](http://mceconf.com), Warsaw
 * January 23-25 - [BobKonf](http://bobkonf.de), Berlin
