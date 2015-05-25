@@ -8,7 +8,7 @@
 
 ## 2015
 
-* May 17-20 - [UIKonf](http://www.uikonf.com)
+* May 20 - [UIKonf](http://www.uikonf.com), Berlin
 * April 16 - [Native Development Meetup](http://www.meetup.com/Native-Development-Meetup/), Budapest
 * March 21-22 - [Swift Summit](https://www.swiftsummit.com), London
 * February 4-6 - [Mobile Central Europe](http://mceconf.com), Warsaw
