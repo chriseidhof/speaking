@@ -1,6 +1,5 @@
 ## Upcoming
 
-* June - [AltConf](http://www.altconf.com), San Francisco
 * August 27 - [CocoaHeads](http://cocoaheads.org/pl/Warsaw/index.html), Warsaw
 * August 28-29 - [CodePot](https://codepot.pl), Warsaw
 * October 10 - [Pragma Mark](http://pragmamark.org), Florence
@@ -8,6 +7,7 @@
 
 ## 2015
 
+* June - [AltConf](http://www.altconf.com), San Francisco
 * May 20 - [UIKonf](http://www.uikonf.com), Berlin
 * April 16 - [Native Development Meetup](http://www.meetup.com/Native-Development-Meetup/), Budapest
 * March 21-22 - [Swift Summit](https://www.swiftsummit.com), London
