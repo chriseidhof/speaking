@@ -5,7 +5,7 @@
 * October - Cocoaheads NL?
 * October 10 - [Pragma Mark](http://pragmamark.org), Florence
 * October 29 - [Swift Summit](https://www.swiftsummit.com), San Francisco
-* November - Moscow?
+* November 17 - [MBLTdev](http://mbltdev.ru), Moscow
 
 
 ## 2015
