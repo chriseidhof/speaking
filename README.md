@@ -4,6 +4,7 @@
 * August 28-29 - [CodePot](https://codepot.pl), Warsaw
 * October - Cocoaheads NL?
 * October 10 - [Pragma Mark](http://pragmamark.org), Florence
+* October 24 - [Lambda World](http://www.lambda.world/), Cádiz
 * October 29 - [Swift Summit](https://www.swiftsummit.com), San Francisco
 * November 17 - [MBLTdev](http://mbltdev.ru), Moscow
 
