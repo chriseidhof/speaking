@@ -1,5 +1,6 @@
 ## Upcoming
 
+* August 20 - [iOS Developers](http://www.meetup.com/Perth-iOS/), Perth
 * August 27 - [CocoaHeads](http://cocoaheads.org/pl/Warsaw/index.html), Warsaw
 * August 28-29 - [CodePot](https://codepot.pl), Warsaw
 * October 14 - [Cocoaheads NL](http://cocoaheads.nl), Amsterdam
@@ -7,6 +8,8 @@
 * October 24 - [Lambda World](http://www.lambda.world/), Cádiz
 * October 29 - [Swift Summit](https://www.swiftsummit.com), San Francisco
 * November 17 - [MBLTdev](http://mbltdev.ru), Moscow
+* January 10 - Beijing
+* January 29 - Paris
 
 
 ## 2015
