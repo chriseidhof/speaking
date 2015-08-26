@@ -1,6 +1,5 @@
 ## Upcoming
 
-* August 20 - [iOS Developers](http://www.meetup.com/Perth-iOS/), Perth
 * August 27 - [CocoaHeads](http://cocoaheads.org/pl/Warsaw/index.html), Warsaw
 * August 28-29 - [CodePot](https://codepot.pl), Warsaw
 * October 14 - [Cocoaheads NL](http://cocoaheads.nl), Amsterdam
@@ -14,6 +13,7 @@
 
 ## 2015
 
+* August 20 - [iOS Developers](http://www.meetup.com/Perth-iOS/), Perth
 * June - [AltConf](http://www.altconf.com), San Francisco
 * May 20 - [UIKonf](http://www.uikonf.com), Berlin
 * April 16 - [Native Development Meetup](http://www.meetup.com/Native-Development-Meetup/), Budapest
