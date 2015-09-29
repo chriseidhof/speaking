@@ -1,18 +1,19 @@
 ## Upcoming
 
-* August 27 - [CocoaHeads](http://cocoaheads.org/pl/Warsaw/index.html), Warsaw
-* August 28-29 - [CodePot](https://codepot.pl), Warsaw
-* October 14 - [Cocoaheads NL](http://cocoaheads.nl), Amsterdam
+* October 6-8 - In-house Workshop, Warsaw
 * October 10 - [Pragma Mark](http://pragmamark.org), Florence
+* October 14 - [Cocoaheads NL](http://cocoaheads.nl), Amsterdam
 * October 24 - [Lambda World](http://www.lambda.world/), Cádiz
 * October 29 - [Swift Summit](https://www.swiftsummit.com), San Francisco
 * November 17 - [MBLTdev](http://mbltdev.ru), Moscow
-* January 10 - Beijing
-* January 29 - Paris
+* January 10 - [@Swift](http://www.atswift.io/), Beijing
+* January 29 - [dotSwift](http://www.dotswift.io), Paris
 
 
 ## 2015
 
+* August 28-29 - [CodePot](https://codepot.pl), Warsaw
+* August 27 - [CocoaHeads](http://cocoaheads.org/pl/Warsaw/index.html), Warsaw
 * August 20 - [iOS Developers](http://www.meetup.com/Perth-iOS/), Perth
 * June - [AltConf](http://www.altconf.com), San Francisco
 * May 20 - [UIKonf](http://www.uikonf.com), Berlin
