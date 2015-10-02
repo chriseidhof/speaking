@@ -8,6 +8,7 @@
 * November 17 - [MBLTdev](http://mbltdev.ru), Moscow
 * January 10 - [@Swift](http://www.atswift.io/), Beijing
 * January 29 - [dotSwift](http://www.dotswift.io), Paris
+* March 3-4 - ?, Tokyo
 
 
 ## 2015
