@@ -1,14 +1,15 @@
 ## Upcoming
 
-* October 29 - [Swift Summit](https://www.swiftsummit.com), San Francisco
-* November 17 - [MBLTdev](http://mbltdev.ru), Moscow
 * January 10 - [@Swift](http://www.atswift.io/), Beijing
 * January 29 - [dotSwift](http://www.dotswift.io), Paris
-* March 3-4 - ?, Tokyo
+* March 3-4 - [try! Swift](http://www.tryswiftconf.com), Tokyo
 
 
 ## 2015
 
+* December 12 - [Functional Swift Conference](http://2015.funswiftconf.com), Brooklyn
+* November 17 - ~~[MBLTdev](http://mbltdev.ru), Moscow~~
+* October 29 - [Swift Summit](https://www.swiftsummit.com), San Francisco
 * October 24 - [Lambda World](http://www.lambda.world/), Cádiz
 * October 14 - [Cocoaheads NL](http://cocoaheads.nl), Amsterdam
 * October 10 - [Pragma Mark](http://pragmamark.org), Florence
