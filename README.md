@@ -1,9 +1,11 @@
 ## Upcoming
 
-* January 10 - [@Swift](http://www.atswift.io/), Beijing
 * January 29 - [dotSwift](http://www.dotswift.io), Paris
 * March 3-4 - [try! Swift](http://www.tryswiftconf.com), Tokyo
 
+## 2016
+
+* January 10 - [@Swift](http://www.atswift.io/), Beijing
 
 ## 2015
 
