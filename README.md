@@ -1,11 +1,12 @@
 ## Upcoming
 
-* March 3-4 - [try! Swift](http://www.tryswiftconf.com), Tokyo
+I've set a limit of five conference talks in 2016...
 
 ## 2016
 
 * January 10 - [@Swift](http://www.atswift.io/), Beijing
 * January 29 - [dotSwift](http://www.dotswift.io), Paris
+* March 3-4 - [try! Swift](http://www.tryswiftconf.com), Tokyo
 
 ## 2015
 
