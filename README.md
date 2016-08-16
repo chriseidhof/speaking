@@ -1,6 +1,6 @@
 ## Upcoming
 
-I've set a limit of five conference talks in 2016...
+I've set a hard limit of five conference talks in 2016...
 
 ## 2016
 
