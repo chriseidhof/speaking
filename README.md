@@ -7,6 +7,8 @@ I've set a limit of five conference talks in 2016...
 * January 10 - [@Swift](http://www.atswift.io/), Beijing
 * January 29 - [dotSwift](http://www.dotswift.io), Paris
 * March 3-4 - [try! Swift](http://www.tryswiftconf.com), Tokyo
+* October 1 - [Functional Swift](http://2016.funswiftconf.com), Budapest
+* November 7-8 - [Swift Summit](https://www.swiftsummit.com), San Francisco
 
 ## 2015
 
