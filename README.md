@@ -5,6 +5,7 @@ I've set a hard limit of five conference talks per year in 2016/2017...
 ## 2017
 
 * February 23/24 - [PlaygroundsCon](http://www.playgroundscon.com/), Melbourne
+* April? - [Functional Swift](http://www.funswiftconf.com), Brooklyn
 
 ## 2016
 
