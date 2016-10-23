@@ -1,6 +1,10 @@
 ## Upcoming
 
-I've set a hard limit of five conference talks in 2016...
+I've set a hard limit of five conference talks per year in 2016/2017...
+
+## 2017
+
+* February 23/24 - [PlaygroundsCon](http://www.playgroundscon.com/), Melbourne
 
 ## 2016
 
