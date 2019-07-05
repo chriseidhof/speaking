@@ -1,14 +1,26 @@
 ## Upcoming
 
-I've set a hard limit of five conference talks per year in 2016...
+* November - [Swiftable](https://swiftable.io/) - Buenos Aires, Argentina
+
+## 2019
+
+* April 26-28 - [NSNorth](https://nsnorth.ca/) - Montreal, Canada
+* May 31 - [mDevCamp](https://mdevcamp.eu/) - Prague, Czech Republic
+* June 17 - [CocoaHeads Kraków](https://www.meetup.com/CocoaHeads-Krakow/events/262043635/) - Kraków, Poland
+* June 19 - [Mobile Warsaw](https://www.meetup.com/Mobile-Warsaw/events/262319797/) - Warsaw, Poland
+
+## 2018
+
+* September - [FrenchKit](https://2018.frenchkit.fr/) - Paris, France
+* December - [CocoaHeads Berlin](https://www.meetup.com/Cocoaheads-Berlin/events/257082023/) - Berlin, Germany
 
 ## 2017
 
 * February 23/24 - [PlaygroundsCon](http://www.playgroundscon.com/), Melbourne
-* April? - [Functional Swift](http://www.funswiftconf.com), Brooklyn
-* May 8-9 - TBA, Poland
-* May 14-15 - TBA, Germany
+* April 15 - [Functional Swift](http://www.funswiftconf.com), Brooklyn
+* May 14-15 - [UIKonf](http://www.uikonf.com), Berlin, Germany
 * Early June - TBA, Germany
+* October 2017 - [#Pragma Conference](https://2017.pragmaconference.com/) - Verona, Italy
 
 ## 2016
 
