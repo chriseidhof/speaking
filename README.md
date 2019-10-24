@@ -1,6 +1,6 @@
 ## Upcoming
 
-* November - [Swiftable](https://swiftable.io/) - Buenos Aires, Argentina
+* November 28-29 - [BA: Swiftable](https://swiftable.io/) - Buenos Aires, Argentina
 
 ## 2019
 
@@ -8,6 +8,7 @@
 * May 31 - [mDevCamp](https://mdevcamp.eu/) - Prague, Czech Republic
 * June 17 - [CocoaHeads Kraków](https://www.meetup.com/CocoaHeads-Krakow/events/262043635/) - Kraków, Poland
 * June 19 - [Mobile Warsaw](https://www.meetup.com/Mobile-Warsaw/events/262319797/) - Warsaw, Poland
+* September 7-8 - [FrenchKit](https://frenchkit.fr) - Paris, France
 
 ## 2018
 
