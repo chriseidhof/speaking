@@ -1,6 +1,15 @@
 ## Upcoming
 
-* November 28-29 - [BA: Swiftable](https://swiftable.io/) - Buenos Aires, Argentina
+TBD
+
+## 2021
+
+* May 17 - [CocoaHeads Cologne](https://www.meetup.com/CocoaHeads-Cologne/events/278136199/) - Online
+
+## 2020
+
+* May 18-19 - [UIKonf](https://uikonf.com) - Online
+* Nov 26 - [Nordic CocoaHeads](https://www.meetup.com/CocoaHeads-Oslo/events/past/) - Online
 
 ## 2019
 
@@ -9,6 +18,7 @@
 * June 17 - [CocoaHeads Kraków](https://www.meetup.com/CocoaHeads-Krakow/events/262043635/) - Kraków, Poland
 * June 19 - [Mobile Warsaw](https://www.meetup.com/Mobile-Warsaw/events/262319797/) - Warsaw, Poland
 * September 7-8 - [FrenchKit](https://frenchkit.fr) - Paris, France
+* November 28-29 - [BA: Swiftable](https://swiftable.io/) - Buenos Aires, Argentina
 
 ## 2018
 
