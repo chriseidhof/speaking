@@ -1,5 +1,9 @@
 ## Upcoming
 
+- None
+
+# Past
+
 ## 2024
 
 - Mar 7 - [CocoaHeads Hamburg](#) - Hamburg, Germany
