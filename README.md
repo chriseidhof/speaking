@@ -1,6 +1,17 @@
 ## Upcoming
 
-TBD
+## 2024
+
+- Mar 7 - [CocoaHeads Hamburg](#) - Hamburg, Germany
+- Apr 23 - [mDevCamp](https://mdevcamp.eu) Prague, Czech Republic
+- Jun 10 - [One More Thing](https://omt-conf.com) Cupertino, CA
+- Sep 23 - [Swift Connection](https://swiftconnection.io) Paris, France
+- Oct 29 - [Pragma Conference](https://pragmaconference.com) Bologna, Italy
+
+## 2023
+
+- Aug 11 - [Swift TO](https://www.swiftconf.to) - Toronto, Canada
+- Aug 16 - [iOSoho](https://www.meetup.com/iosoho/) - NYC
 
 ## 2021
 
