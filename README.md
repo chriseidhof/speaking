@@ -7,15 +7,15 @@
 ## 2024
 
 - Mar 7 - [CocoaHeads Hamburg](#) - Hamburg, Germany
-- Apr 23 - [mDevCamp](https://mdevcamp.eu) Prague, Czech Republic
+- Apr 23 - [mDevCamp](https://mdevcamp.eu) Prague, Czech Republic ([video](https://www.youtube.com/watch?v=lm2Q3BU9dsg))
 - Jun 10 - [One More Thing](https://omt-conf.com) Cupertino, CA
-- Sep 23 - [Swift Connection](https://swiftconnection.io) Paris, France
-- Oct 29 - [Pragma Conference](https://pragmaconference.com) Bologna, Italy
+- Sep 23 - [Swift Connection](https://swiftconnection.io) Paris, France ([video](https://www.youtube.com/watch?v=CPzf_0tRwcE))
+- Oct 29 - [Pragma Conference](https://pragmaconference.com) Bologna, Italy ([video](https://www.youtube.com/watch?v=oF8u7f8Ak6Y&list=PLAVm70iJlMuuyXvimaw1Yze5Q_O_y5Z9L))
 
 ## 2023
 
-- Aug 11 - [Swift TO](https://www.swiftconf.to) - Toronto, Canada
-- Aug 16 - [iOSoho](https://www.meetup.com/iosoho/) - NYC
+- Aug 11 - [Swift TO](https://www.swiftconf.to) - Toronto, Canada ([video](https://www.youtube.com/watch?v=MRY3UCUVv98))
+- Aug 16 - [iOSoho](https://www.meetup.com/iosoho/) - NYC ([video](https://www.youtube.com/watch?v=PQH29SqZqHQ&t=2s))
 
 ## 2021
 
@@ -23,7 +23,7 @@
 
 ## 2020
 
-* May 18-19 - [UIKonf](https://uikonf.com) - Online
+* May 18-19 - [UIKonf](https://uikonf.com) - Online 
 * Nov 26 - [Nordic CocoaHeads](https://www.meetup.com/CocoaHeads-Oslo/events/past/) - Online
 
 ## 2019
@@ -33,11 +33,11 @@
 * June 17 - [CocoaHeads Kraków](https://www.meetup.com/CocoaHeads-Krakow/events/262043635/) - Kraków, Poland
 * June 19 - [Mobile Warsaw](https://www.meetup.com/Mobile-Warsaw/events/262319797/) - Warsaw, Poland
 * September 7-8 - [FrenchKit](https://frenchkit.fr) - Paris, France
-* November 28-29 - [BA: Swiftable](https://swiftable.io/) - Buenos Aires, Argentina
+* November 28-29 - [BA: Swiftable](https://swiftable.io/) - Buenos Aires, Argentina ([https://www.youtube.com/watch?v=GuK6wwX8M0E&t=1010s](video))
 
 ## 2018
 
-* September - [FrenchKit](https://2018.frenchkit.fr/) - Paris, France
+* September - [FrenchKit](https://2018.frenchkit.fr/) - Paris, France ([video](https://www.youtube.com/watch?v=OLDHgg0uh6A&t=3s))
 * December - [CocoaHeads Berlin](https://www.meetup.com/Cocoaheads-Berlin/events/257082023/) - Berlin, Germany
 
 ## 2017
