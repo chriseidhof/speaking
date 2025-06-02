@@ -1,8 +1,12 @@
 ## Upcoming
 
-- None
+- Jun 11 - [One More Thing](https://omt-conf.com) Cupertino, CA
 
 # Past
+
+- May 15 - [iOSKonf](https://www.ioskonf.mk) - Skopje, North Macedonia
+- May 20 - [Mobile Warsaw](https://www.meetup.com/mobilewarsaw/events/307798438/?eventOrigin=group_past_events) - Warsaw, Poland
+
 
 ## 2024
 
